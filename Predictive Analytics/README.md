@@ -15,3 +15,12 @@ Variables whose values can vary in some defined interval. There are two sub-type
 Those that in principle can take any value within an interval: the height of a person, stock prices, the mass of a star, and credit card balance are examples of continuous variables
    #####     . Integer variables: 
 Those that can take only values that are integer numbers: number of children, age (if measured in years), the number of rooms in a house, and so on
+
+
+### The Predictive Analytics Process
+Problem understanding and definition
+Data collection and preparation
+Data understanding using exploratory data analysis (EDA)
+Model building
+Model evaluation
+Communication and/or deployment
