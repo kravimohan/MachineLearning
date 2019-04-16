@@ -18,9 +18,10 @@ Those that can take only values that are integer numbers: number of children, ag
 
 
 ### The Predictive Analytics Process
-Problem understanding and definition
-Data collection and preparation
-Data understanding using exploratory data analysis (EDA)
-Model building
-Model evaluation
-Communication and/or deployment
+. Problem understanding and definition
+. Data collection and preparation
+. Data understanding using exploratory data analysis (EDA)
+. Model building
+. Model evaluation
+. Communication and/or deployment
+
