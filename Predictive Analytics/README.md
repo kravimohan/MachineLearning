@@ -95,8 +95,8 @@ CRISP-DM (Cross-Industry Standard Process for Data Mining) is another popular fr
 The word **epicycle** is used to communicate the fact that these stages are interconnected and that they form part of a bigger wheel that is the data analysis process.
 
 ### Further Reading
-* Chin, L., Dutta, Tanmay (2016). NumPy Essentials. Packt Publishing.
-* Fuentes, A. (2017). Become a Python Data Analyst. Packt Publishing
-* VanderPlas, J. (2016). Python Data Science Handbook: Essential Tools for Working with Data, O'Reilly Media.
-* Wirth, R., Hipp, J. (2000). CRISP-DM: Towards a standard process model for data mining. In Proceedings of the 4th international conference on the practical applications of knowledge discovery and data mining.
-* Yim, A., Chung, C., Yu. A. (2018) Matplotlib for Python Developers. Packt Publishing.
+* Chin, L., Dutta, Tanmay (2016). **NumPy Essentials**, Packt Publishing.
+* Fuentes, A. (2017). **Become a Python Data Analyst**, Packt Publishing
+* VanderPlas, J. (2016). **Python Data Science Handbook: Essential Tools for Working with Data**, O'Reilly Media.
+* Wirth, R., Hipp, J. (2000). **CRISP-DM: Towards a standard process model for data mining**, In Proceedings of the 4th international conference on the practical applications of knowledge discovery and data mining.
+* Yim, A., Chung, C., Yu. A. (2018) **Matplotlib for Python Developers**, Packt Publishing.
