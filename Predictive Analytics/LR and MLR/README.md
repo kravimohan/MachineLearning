@@ -1,2 +1,2 @@
-# MachineLearning
+# Linear Rgression
 
