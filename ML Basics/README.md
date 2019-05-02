@@ -9,5 +9,4 @@ Machine learning can also be defined as the process of solving a practical probl
 Supervised, semi-supervised, unsupervised and reinforcement
 
 #### Supervised Learning
-In supervised learning1, the dataset is the collection of labeled examples {(xi, yi)}Ni=1.
-\frac{\sigma}{\mu}
+In supervised learning1, the dataset is the collection of labeled examples {(xi, yi)}i=1 to N
